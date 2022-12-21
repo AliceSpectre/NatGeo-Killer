@@ -1,8 +1,7 @@
 // ==UserScript==
 // @name         National Geographic Email Signup Wall Blocker
-// @namespace    http://tampermonkey.net/
-// @license      MIT
-// @version      0.1.5
+// @license      GNU General Public License v3.0
+// @version      0.1
 // @description  Active checks for the existance of the 'email wall', remove changes to page for easy viewing.
 // @author       https://github.com/AliceSpectre
 // @match        https://www.nationalgeographic.com/*
