@@ -37,7 +37,7 @@
             paywall_killer()
         } else{
             console.log("No Pay/Email Wall detected here");
-            console.log("Rechecking in 5 seconds")
+            console.log("Rechecking in 1s")
         }
     }
 
